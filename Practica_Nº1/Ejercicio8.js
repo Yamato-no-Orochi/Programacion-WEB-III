@@ -1,0 +1,1 @@
+setTimeout(() => console.log("Listo después de 2 segundos"), 2000);
